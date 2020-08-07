@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec48d1d-4737-4295-be1d-a9c9d3a10b0a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ace80eb3-46e4-41c0-832e-b775b333dea7" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ecBbOx97kcSEa1gWN5qWL4ifPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec48d1d-4737-4295-be1d-a9c9d3a10b0a" name="默认更改列表" comment="" />
+      <created>1594611072010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594611072010</updated>
+      <workItem from="1594611088093" duration="1224000" />
+      <workItem from="1594612818200" duration="1496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1457" y="77" key="#HTTP_Proxy" timestamp="1594612750700">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state x="-1457" y="77" key="#HTTP_Proxy/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612750700" />
+    <state x="-1320" y="324" key="GitCloneDialog" timestamp="1594613846367">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state x="-1320" y="324" key="GitCloneDialog/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594613846367" />
+    <state width="1696" height="284" key="GridCell.Tab.0.bottom" timestamp="1594612888681">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state width="1696" height="284" key="GridCell.Tab.0.bottom/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612888681" />
+    <state width="1696" height="284" key="GridCell.Tab.0.center" timestamp="1594612888681">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state width="1696" height="284" key="GridCell.Tab.0.center/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612888681" />
+    <state width="1696" height="284" key="GridCell.Tab.0.left" timestamp="1594612888681">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state width="1696" height="284" key="GridCell.Tab.0.left/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612888681" />
+    <state width="1696" height="284" key="GridCell.Tab.0.right" timestamp="1594612888681">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state width="1696" height="284" key="GridCell.Tab.0.right/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612888681" />
+    <state x="-1470" y="138" key="IDE.errors.dialog" timestamp="1594612204134">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state x="-1470" y="138" key="IDE.errors.dialog/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612204134" />
+    <state x="-1520" y="58" key="Maven.ArtifactSearchDialog" timestamp="1594612786047">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state x="-1520" y="58" key="Maven.ArtifactSearchDialog/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594612786047" />
+    <state x="-1549" y="46" key="SettingsEditor" timestamp="1594613840968">
+      <screen x="-1920" y="-121" width="1739" height="1048" />
+    </state>
+    <state x="-1549" y="46" key="SettingsEditor/0.0.1739.939/-1920.-121.1739.1048@-1920.-121.1739.1048" timestamp="1594613840968" />
+  </component>
+</project>
