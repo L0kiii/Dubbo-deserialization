@@ -111,7 +111,7 @@
         <hessian_version>4.0.38</hessian_version>
         <protobuf-java_version>3.6.0</protobuf-java_version>
         <servlet_version>3.1.0</servlet_version>
-        <jetty_version>9.4.11.v20180605</jetty_version>
+        <jetty_version>10.0.10</jetty_version>
         <validation_version>1.1.0.Final</validation_version>
         <hibernate_validator_version>5.4.1.Final</hibernate_validator_version>
         <jel_version>3.0.1-b08</jel_version>
